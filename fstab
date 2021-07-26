@@ -28,10 +28,10 @@
 #LABEL=swap		none		swap		sw		0 0
 #/dev/cdrom		/mnt/cdrom	auto		noauto,ro	0 0
 
-UUID=75BB-FA68						/boot		vfat		defaults	0 2
-UUID=69d37223-fc7f-4685-863a-e10c286c6dd3		none		swap		sw		0 0
-UUID=383cb013-e28a-4725-9dce-36d2b751e140		/		btrfs		noatime		0 1
-UUID=db82294c-4239-43b1-b5c5-26d4139e6f3a		/home		btrfs		defaults	0 0
+UUID=1B66-8C19                    					/boot		vfat		defaults	0 2
+UUID=9db52b46-f391-4e6e-a37a-5a98bc55e1e8		none		swap		sw		    0 0
+UUID=11f2ac77-f1c8-468b-b8ec-bd0078f3f8df		/		    btrfs		noatime		0 1
+UUID=80400932-55e8-4699-9516-597d6a3787a6		/home		btrfs		defaults	0 0
 
 # Mounting NAS drive
 
